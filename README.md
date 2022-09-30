@@ -1,5 +1,5 @@
-# Tile Reconstruction
-Code to reconstruct tiles from multishot and singleshot contour images. The input images are stored in the folder images. They are subfolders to study different cases (e.g. thickness_1 or thickness_2, just different contour thickness). Inside each subfolder, there are three main folders: (1) initialshots, (2) extrashots, and (3) singleshot. 
+# Tile Computer Vision Reconstruction
+Code to reconstruct tile edges from multishot and singleshot contour images. The input images are stored in the folder images. They are subfolders to study different cases (e.g. thickness_1 or thickness_2, just different contour thickness). Inside each subfolder, there are three main folders: (1) initialshots, (2) extrashots, and (3) singleshot. 
 
 ## Install
 

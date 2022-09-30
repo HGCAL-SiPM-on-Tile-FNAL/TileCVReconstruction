@@ -25,9 +25,24 @@ The script will produce two output folders: plots_singleshot (control plots asso
 ````
 python Reconstruction_Singleshot.py
 ````
+The result for this example should be the following:
+````
+    - Top      (33.83): 33.848
+    - Bottom   (33.05): 32.938
+    - Left     (33.81): 33.628
+    - Right    (33.81): 33.491
+````
+
 
 ## Multishot reconstruction
 Make sure to edit the noozle position associated to the shots. The script will produce two output folders: plots_multishot (control plots associated to the filters) and results_multishot (fits, shots/contours displaying the fitted corners).
 ````
 python Reconstruction_Multishot.py
+````
+The result for this example should be the following:
+````
+    - Top      (33.83): 33.944
+    - Bottom   (33.05): 33.020
+    - Left     (33.81): 33.623
+    - Right    (33.81): 33.611
 ````
